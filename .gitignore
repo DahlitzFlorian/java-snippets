@@ -1,0 +1,8 @@
+# vscode files
+.vscode/
+
+# bin directory
+bin/
+
+# class-files in general
+*.class
