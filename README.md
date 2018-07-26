@@ -6,6 +6,6 @@ Including smaller Java snipptes this repository was created to learn the Java pr
 | Class/Folder Name | Description |
 |------------|-------------|
 | ListFiles | Walks through a given directory and logs all available text-files |
-| Ships | Provides a set of classes and interfaces to give an understanding of class structuring |
-| PropertiesManager | Lists all system properties - created to test java interpreter switches |
 | packaging | Includes classes to learn packaging and a description on how to compile and run them |
+| PropertiesManager | Lists all system properties - created to test java interpreter switches |
+| Ships | Provides a set of classes and interfaces to give an understanding of class structuring |
