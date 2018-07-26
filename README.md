@@ -7,3 +7,4 @@ Including smaller Java snipptes this repository was created to learn the Java pr
 |------------|-------------|
 | ListFiles | Walks through a given directory and logs all available text-files |
 | Ships | Provides a set of classes and interfaces to give an understanding of class structuring |
+| PropertiesManager | Lists all system properties - created to test java interpreter switches |
