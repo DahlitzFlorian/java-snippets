@@ -9,3 +9,4 @@ Including smaller Java snipptes this repository was created to learn the Java pr
 | packaging | Includes classes to learn packaging and a description on how to compile and run them |
 | PropertiesManager | Lists all system properties - created to test java interpreter switches |
 | Ships | Provides a set of classes and interfaces to give an understanding of class structuring |
+| StringSwitch | Illustrates the usage of Strings in switch-statements (>= Java SE 7) |
