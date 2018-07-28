@@ -5,6 +5,7 @@ Including smaller Java snipptes this repository was created to learn the Java pr
 ## Available Snippets ##
 | Class/Folder Name | Description |
 |------------|-------------|
+| LabeledStatements | Introduces the usage of labeled statements |
 | LegalFishSizes | Example of how to use the enhanced for-loop (with conditions) |
 | ListFiles | Walks through a given directory and logs all available text-files |
 | packaging | Includes classes to learn packaging and a description on how to compile and run them |
