@@ -5,6 +5,7 @@ Including smaller Java snipptes this repository was created to learn the Java pr
 ## Available Snippets ##
 | Class/Folder Name | Description |
 |------------|-------------|
+| CompoundAssignmentOperators | Provides several examples of compound assignment operators |
 | LabeledStatements | Introduces the usage of labeled statements |
 | LegalFishSizes | Example of how to use the enhanced for-loop (with conditions) |
 | ListFiles | Walks through a given directory and logs all available text-files |
