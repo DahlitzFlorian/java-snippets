@@ -10,7 +10,8 @@ Including smaller Java snipptes this repository was created to learn the Java pr
 | LabeledStatements | Introduces the usage of labeled statements |
 | LegalFishSizes | Example of how to use the enhanced for-loop (with conditions) |
 | ListFiles | Walks through a given directory and logs all available text-files |
+| LogicalOperatorsOutput | Shows the evaluation steps of the different logical operators |
 | packaging | Includes classes to learn packaging and a description on how to compile and run them |
-| PropertiesManager | Lists all system properties - created to test java interpreter switches |
+| PropertiesManager | Lists all system properties - created to test java interpreter switches |
 | Ships | Provides a set of classes and interfaces to give an understanding of class structuring |
 | StringSwitch | Illustrates the usage of Strings in switch-statements (>= Java SE 7) |
