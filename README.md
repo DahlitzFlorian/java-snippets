@@ -8,6 +8,7 @@ Including smaller Java snipptes this repository was created to learn the Java pr
 | ArrayVSArrayList | Compares the usage of standard arrays and ArrayList |
 | CompoundAssignmentOperators | Provides several examples of compound assignment operators |
 | IncrementDecrementOperators | Illustrates the different behaviour of prefix- and postfix-incrementation/decrementation |
+| interfaces | Demonstrates the usage of multiple interfaces |
 | LabeledStatements | Introduces the usage of labeled statements |
 | LegalFishSizes | Example of how to use the enhanced for-loop (with conditions) |
 | ListFiles | Walks through a given directory and logs all available text-files |
