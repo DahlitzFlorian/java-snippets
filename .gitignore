@@ -6,3 +6,7 @@ bin/
 
 # class-files in general
 *.class
+
+# .DS_Store-file
+.DS_Store
+*/.DS_Store
