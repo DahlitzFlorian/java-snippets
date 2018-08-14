@@ -15,8 +15,9 @@ Including smaller Java snipptes this repository was created to learn the Java pr
 | LegalFishSizes | Example of how to use the enhanced for-loop (with conditions) |
 | ListFiles | Walks through a given directory and logs all available text-files |
 | LogicalOperatorsOutput | Shows the evaluation steps of the different logical operators |
+| MultiCatchClause | Shows the proper usage of multi-catch-clauses |
 | packaging | Includes classes to learn packaging and a description on how to compile and run them |
-|.polymorphism | Demonstrates the concept of polymorphism using interfaces |
+| polymorphism | Demonstrates the concept of polymorphism using interfaces |
 | PropertiesManager | Lists all system properties - created to test java interpreter switches |
 | Ships | Provides a set of classes and interfaces to give an understanding of class structuring |
 | StringSwitch | Illustrates the usage of Strings in switch-statements (>= Java SE 7) |
