@@ -6,6 +6,7 @@ Including smaller Java snipptes this repository was created to learn the Java pr
 | Class/Folder Name | Description |
 |------------|-------------|
 | ArrayVSArrayList | Compares the usage of standard arrays and ArrayList |
+| CEExample | Provides an example of a checked exception |
 | CompoundAssignmentOperators | Provides several examples of compound assignment operators |
 | IncrementDecrementOperators | Illustrates the different behaviour of prefix- and postfix-incrementation/decrementation |
 | interfaces | Demonstrates the usage of multiple interfaces |
