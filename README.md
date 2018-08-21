@@ -12,7 +12,7 @@ Including smaller Java snipptes this repository was created to learn the Java pr
 | IncrementDecrementOperators | Illustrates the different behaviour of prefix- and postfix-incrementation/decrementation |
 | interfaces | Demonstrates the usage of multiple interfaces |
 | LabeledStatements | Introduces the usage of labeled statements |
-| lambda | Reveals the usage of lambda expressions in combination with the Stream API |
+| lambda | Reveals the usage of lambda expressions in connection with the Stream API |
 | LegalFishSizes | Example of how to use the enhanced for-loop (with conditions) |
 | ListFiles | Walks through a given directory and logs all available text-files |
 | LogicalOperatorsOutput | Shows the evaluation steps of the different logical operators |
